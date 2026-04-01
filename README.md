@@ -1,6 +1,6 @@
 # Rolls-Royce Corporate Finance Analysis
 
-This repository presents an advanced corporate finance model and supporting analysis developed for a case study on :contentReference[oaicite:0]{index=0}.
+This repository presents an advanced corporate finance model and supporting analysis developed for a case study on Rolls Royce investment project.
 
 ## Project Overview
 
