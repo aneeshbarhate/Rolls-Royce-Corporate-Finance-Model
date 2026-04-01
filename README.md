@@ -47,7 +47,6 @@ The analysis is based on:
 
 - `Rolls_Royce_Corporate_Finance_Model.xlsx` – Excel-based financial model  
 - `Rolls_Royce_Corporate_Finance_Report.pdf` – Detailed supporting report  
-- (Optional) `model-output.png` – Snapshot of key outputs  
 
 ## Purpose
 
